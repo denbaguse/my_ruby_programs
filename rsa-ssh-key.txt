@@ -1,0 +1,6 @@
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/Lenovo/.ssh/id_rsa.
+Your public key has been saved in /c/Users/Lenovo/.ssh/id_rsa.pub.
+The key fingerprint is:
+7f:c7:5d:a1:40:96:c0:0a:84:dc:f4:8f:e2:28:2f:7b mr.sigit@gmail.com
